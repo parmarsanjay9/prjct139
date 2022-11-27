@@ -1,0 +1,14 @@
+#back{
+    float: right;
+    background-color: black;
+    color: white;
+}
+#status
+{
+font-size: 18px;
+}
+canvas 
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
